@@ -17,8 +17,8 @@ export const SUBJECTS_DATA: SubjectData[] = [
     status: 'improving',
     strengths: ['Algebra (85%)', 'Geometry (82%)'],
     struggles: ['Word Problems (65%)', 'Statistics (68%)'],
-    teacherComment: "Arjun is showing consistent improvement. Needs to focus on application-based problems.",
-    aiInsight: "Arjun's math performance has improved 15% this month. Continue current study routine.",
+    teacherComment: "Prarthana is showing consistent improvement. Needs to focus on application-based problems.",
+    aiInsight: "Prarthana's math performance has improved 15% this month. Continue current study routine.",
     predictedScore: 82,
     topics: [
       { topic: 'Algebra', score: 85, total: 100 },
