@@ -1,7 +1,7 @@
 import { SubjectData, StudentProfile, Update } from './types';
 
 export const STUDENT_PROFILE: StudentProfile = {
-  name: "Prarthana",
+  name: "Arjun",
   class: "9",
   section: "A",
   rollNo: "24"
@@ -17,8 +17,8 @@ export const SUBJECTS_DATA: SubjectData[] = [
     status: 'improving',
     strengths: ['Algebra (85%)', 'Geometry (82%)'],
     struggles: ['Word Problems (65%)', 'Statistics (68%)'],
-    teacherComment: "Prarthana is showing consistent improvement. Needs to focus on application-based problems.",
-    aiInsight: "Prarthana's math performance has improved 15% this month. Continue current study routine.",
+    teacherComment: "Arjun is showing consistent improvement. Needs to focus on application-based problems.",
+    aiInsight: "Arjun's math performance has improved 15% this month. Continue current study routine.",
     predictedScore: 82,
     topics: [
       { topic: 'Algebra', score: 85, total: 100 },
@@ -47,7 +47,7 @@ export const SUBJECTS_DATA: SubjectData[] = [
     status: 'declining',
     strengths: ['Biology (78%)'],
     struggles: ['Physics (62%)', 'Chemistry (65%)'],
-    teacherComment: "Prarthana seems distracted lately. Please ensure regular study schedule for Science.",
+    teacherComment: "Arjun seems distracted lately. Please ensure regular study schedule for Science.",
     aiInsight: "Declining trend detected. Recommend scheduling 30 mins extra daily for Physics.",
     predictedScore: 65,
     topics: [
