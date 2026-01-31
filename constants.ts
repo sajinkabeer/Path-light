@@ -1,7 +1,7 @@
 import { SubjectData, StudentProfile, Update } from './types';
 
 export const STUDENT_PROFILE: StudentProfile = {
-  name: "Arjun",
+  name: "Prarthana",
   class: "9",
   section: "A",
   rollNo: "24"
@@ -47,7 +47,7 @@ export const SUBJECTS_DATA: SubjectData[] = [
     status: 'declining',
     strengths: ['Biology (78%)'],
     struggles: ['Physics (62%)', 'Chemistry (65%)'],
-    teacherComment: "Arjun seems distracted lately. Please ensure regular study schedule for Science.",
+    teacherComment: "Prarthana seems distracted lately. Please ensure regular study schedule for Science.",
     aiInsight: "Declining trend detected. Recommend scheduling 30 mins extra daily for Physics.",
     predictedScore: 65,
     topics: [
